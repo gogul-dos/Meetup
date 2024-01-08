@@ -1,0 +1,11 @@
+.main-register-container {
+  display: flex;
+  align-items: center;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+.for-margin {
+  margin-top: 10px;
+}
